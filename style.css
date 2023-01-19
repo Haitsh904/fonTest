@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-family: "STC";
+}
+
+@font-face {
+  font-family: "STC";
+  src: url("STC-Regular.ttf") format(truetype);
+  font-weight: normal;
+}
